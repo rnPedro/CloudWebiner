@@ -60,7 +60,7 @@
 
 ## Contexto abordado pelo Gabriel no Webinar:
 
-![![Solução antes da migração](https://github.com/user-attachments/assets/d6a0e4f8-4656-494d-a8e5-057734e3a594)
+![Solução antes da migração](https://github.com/user-attachments/assets/d6a0e4f8-4656-494d-a8e5-057734e3a594)
 ]
 Solução migrada (Simplificada)
 ![![image](https://github.com/user-attachments/assets/6a0d51f7-c864-4696-a59f-45e3c2a64836)
