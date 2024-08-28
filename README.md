@@ -61,5 +61,5 @@
 ## Contexto abordado pelo Gabriel no Webinar:
 
 ![image](https://github.com/user-attachments/assets/d6a0e4f8-4656-494d-a8e5-057734e3a594)
-![![image](https://github.com/user-attachments/assets/6a0d51f7-c864-4696-a59f-45e3c2a64836)
-![![image](https://github.com/user-attachments/assets/e8666fae-a54f-439c-9054-a049ca92b11f)
+![image](https://github.com/user-attachments/assets/6a0d51f7-c864-4696-a59f-45e3c2a64836)
+![image](https://github.com/user-attachments/assets/e8666fae-a54f-439c-9054-a049ca92b11f)
